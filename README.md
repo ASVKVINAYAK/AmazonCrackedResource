@@ -1,5 +1,6 @@
 # AmazonCrackedResource
 A List of frequently asked questions in Amazon's Online Assessment and Interviews
+Contains resorces for all Amazon OA and internview preparations
 
 Please leave a STAR 🌟 and SUBSCRIBE to our channel for more AMAZING content! ❤️
 
